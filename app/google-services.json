@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "1088472222268",
+    "firebase_url": "https://teachertoparent-118e5.firebaseio.com",
+    "project_id": "teachertoparent-118e5",
+    "storage_bucket": "teachertoparent-118e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088472222268:android:29aa3e3bae4756d6",
+        "android_client_info": {
+          "package_name": "com.example.razan.teachertoparent_t2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq8WRSYUoqibRf3GDkLN6u36a8fWTH-hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088472222268-5tcj28om07f1gvqejonu4b6t6t2f30qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
